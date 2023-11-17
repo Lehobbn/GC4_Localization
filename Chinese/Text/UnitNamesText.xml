@@ -25,7 +25,7 @@
             <Requirements>
                 <CitizenRace>Race_Navigators</CitizenRace>
             </Requirements>
-            <Text>Ciocci</Text>
+            <Text>西奥奇</Text>
             <Text>艾拉尼</Text>
             <Text>费里</Text>
             <Text>弗林齐</Text>
@@ -34,7 +34,7 @@
             <Text>乔萨</Text>
             <Text>雷欧尼</Text>
             <Text>麦琪</Text>
-            <Text>Mele</Text>
+            <Text>梅雷</Text>
             <Text>内西</Text>
             <Text>奥多</Text>
             <PreferenceWeight>1</PreferenceWeight>
@@ -44,7 +44,7 @@
                 <CitizenRace>Race_Festron</CitizenRace>
             </Requirements>
             <Text>格塔切乌</Text>
-            <Text>Mamo</Text>
+            <Text>马莫</Text>
             <Text>图鲁</Text>
             <Text>萨达特</Text>
             <Text>梅里德</Text>
@@ -52,9 +52,9 @@
             <Text>特塞加</Text>
             <Text>梅斯芬</Text>
             <Text>泽德</Text>
-            <Text>这个星球</Text>
+            <Text>德斯塔</Text>
             <Text>马赫莱特</Text>
-            <Text>哈欠</Text>
+            <Text>杨</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
@@ -65,37 +65,37 @@
             <Text>保利恩</Text>
             <Text>格林穆尔</Text>
             <Text>蒂杜伊</Text>
-            <Text>Lykkurt</Text>
+            <Text>莱库尔特</Text>
             <Text>艾瑞普斯</Text>
-            <Text>Pnonce</Text>
+            <Text>庞思Text>
             <Text>伊尔万</Text>
             <Text>欧伊杰尔</Text>
             <Text>艾根</Text>
-            <Text>Millin</Text>
+            <Text>米林</Text>
             <Text>艾登</Text>
-            <Text>死吧</Text>
+            <Text>莫尔</Text>
             <Text>克罗阿什</Text>
             <Text>纳乌尔</Text>
             <Text>达德</Text>
-            <Text>Gaelish</Text>
+            <Text>盖利什</Text>
             <Text>拉科蒂克</Text>
-            <Text>Foon</Text>
+            <Text>富恩</Text>
             <Text>昆</Text>
-            <Text>Coin</Text>
+            <Text>科因</Text>
             <Text>格尔</Text>
             <Text>莉丝</Text>
-            <Text>私奔</Text>
+            <Text>艾洛普</Text>
             <Text>慕埃</Text>
-            <Text>Chanler</Text>
+            <Text>钱勒</Text>
             <Text>克伦格</Text>
             <Text>马塞尔</Text>
             <Text>马托尔</Text>
             <Text>德罗戈尔</Text>
             <Text>安西斯</Text>
             <Text>阿兹登</Text>
-            <Text>木材</Text>
+            <Text>博伊</Text>
             <Text>利什</Text>
-            <Text>碎片</Text>
+            <Text>沙尔德</Text>
             <Text>维特拉尔</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
@@ -104,23 +104,23 @@
                 <CitizenRace>Race_Drengin</CitizenRace>
             </Requirements>
             <Text>萨尔纳</Text>
-            <Text>Ling</Text>
+            <Text>零</Text>
             <Text>马克</Text>
-            <Text>桥</Text>
-            <Text>Fark</Text>
-            <Text>点</Text>
+            <Text>庞</Text>
+            <Text>法科</Text>
+            <Text>迪安</Text>
             <Text>梅洛特</Text>
             <Text>艾尔敏</Text>
-            <Text>停采区</Text>
-            <Text>鞭笞</Text>
+            <Text>斯托普</Text>
+            <Text>拉什</Text>
             <Text>科什</Text>
-            <Text>热忱</Text>
-            <Text>动物园</Text>
-            <Text>达斯巴</Text>
+            <Text>瑞尔</Text>
+            <Text>祖尔</Text>
+            <Text>达斯巴尔</Text>
             <Text>伊格拉斯</Text>
             <Text>穆尔顿</Text>
             <Text>昆索尔</Text>
-            <Text>Umorth</Text>
+            <Text>乌莫斯</Text>
             <Text>艾格巴</Text>
             <Text>欧塔思</Text>
             <Text>佩图纳尔</Text>
@@ -129,7 +129,7 @@
             <Text>德拉科尔</Text>
             <Text>基巴斯</Text>
             <Text>兰多斯</Text>
-            <Text>啰</Text>
+            <Text>让</Text>
             <Text>尤伊格拉</Text>
             <Text>格伦顿</Text>
             <Text>迪诺罗格</Text>
@@ -140,18 +140,18 @@
             <Requirements>
                 <CitizenRace>Race_Iconian</CitizenRace>
             </Requirements>
-            <Text>昏暗的</Text>
-            <Text>勇敢者</Text>
-            <Text>自鸣得意的</Text>
+            <Text>阴暗的</Text>
+            <Text>勇敢的</Text>
+            <Text>得意的</Text>
             <Text>机智的</Text>
             <Text>小心的</Text>
             <Text>跛脚的</Text>
             <Text>年轻的</Text>
-            <Text>内向的人</Text>
+            <Text>内向的</Text>
             <Text>保证的</Text>
-            <Text>鲁莽者</Text>
+            <Text>鲁莽的</Text>
             <Text>魅力的</Text>
-            <Text>这个圆形</Text>
+            <Text>完整的</Text>
             <PreferenceWeight>1</PreferenceWeight>
         </FlavorTextOption>
         <FlavorTextOption>
